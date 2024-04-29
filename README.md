@@ -8,4 +8,5 @@ Plus, it leverages wifi connections as triggers, seamlessly adapting to your env
 
 Say goodbye to awkward apologies and hello to uninterrupted moments of focus and relaxation.
 
-![Uploading image.png…]()
+![image](https://github.com/ToufiqSK/QuietTime/assets/106423931/387595f2-4072-49ca-9d30-72177111924d)
+
